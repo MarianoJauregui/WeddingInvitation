@@ -565,77 +565,6 @@ body.preloader-site {
 }
 
 
-.foto1 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-kang-emil.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat:no-repeat;
-  min-height: 24rem;
-}
-
-
-.foto2 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-cashbac.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat:no-repeat;
-  min-height: 24rem;
-}
-
-.foto3 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-selfie.jpg");
-  background-size: cover;
-  background-position: top;
-  background-repeat:no-repeat;
-  min-height: 24rem;
-}
-
-.foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-lamaran.jpg");
-  background-size: cover;
-  background-position: top;
-  background-repeat:no-repeat;
-  min-height: 24rem;
-}
-
-.foto5 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-red-car.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat:no-repeat;
-  min-height: 24rem;
-}
-
-
-.foto6 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-engagement-ami.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat:no-repeat;
-  min-height: 24rem;
-}
-
-
-
-.title-foto {
-  font-size: 18pt;
-  font-family: 'Lato', sans-serif;
-  font-weight: 700;
-  text-align: left;
-  color: white;
-}
-
-
-.subtitle-foto {
-  font-family: 'Lato', sans-serif;
-  font-weight: 700;
-  font-size: 14pt;
-  font-weight: 600;
-  margin-top: 15px;
-  text-align: left;
-  color: white;
-}
-
 .section-light {
   background-image: url(../image/divider-flowers-leaves.png);
   background-position: bottom -30px center;
@@ -643,13 +572,3 @@ body.preloader-site {
   background-size: initial;
 }
 
-.instagram {
-  color: #996E6D;
-  font-size: 1.25rem;
-  font-weight: 900;
-  margin-top: 0.5rem;
-  display: inline-block;
-  vertical-align: middle;
-  text-align: center;
-  padding: 10px;
-}
