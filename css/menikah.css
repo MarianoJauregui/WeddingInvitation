@@ -132,7 +132,7 @@ html {
 }
 
 .main-content .section-dark {
-  background-color: rgba(129, 165, 117, 0.623);
+  background-color: rgba(162, 199, 150, 0.623);
   padding: 80px 40px;
 }
 
@@ -502,7 +502,7 @@ body.preloader-site {
 
 .btn-cta {
   background-color: #996E6D;
-  width:  210px;
+  width:  250px;
   height: 65px;
   color: white;
   font-size: 1.2rem;
