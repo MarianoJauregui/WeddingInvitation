@@ -22,10 +22,8 @@ html {
 .navbar-item {
   line-height: 38px;
   font-weight: 600;
-  text-transform: ;
   letter-spacing: 1px;
   font-size: 1rem;
-  box-shadow:  ;
 }
 
 .navbar-item.is-active{
@@ -36,10 +34,12 @@ html {
   font-color: rgba(129, 165, 117, 0.623);
 }
 
-
-.hero {
-  background: linear-gradient(rgba(224, 233, 215, 0.82), 
+/* linear-gradient(rgba(201, 216, 186, 0.82), 
   rgba(161, 176, 142, 0.65)), 
+  rgba(0, 0, 0, 0.55) */
+.hero {
+  background: linear-gradient(rgba(189, 214, 164, 0.505), 
+  rgba(164, 182, 139, 0.514)), 
   rgba(0, 0, 0, 0.55) 
   url("https://images4.alphacoders.com/117/1177631.jpg") no-repeat;
   background-attachment: fixed;
@@ -47,6 +47,7 @@ html {
   color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Raleway', sans-serif;
+  
 }
 
 
