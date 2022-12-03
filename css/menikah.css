@@ -19,11 +19,16 @@ html {
   padding-bottom: 30px;
 }
 
+#mobile-nav{
+  background-color: whitesmoke;
+  }
+
 .navbar-item {
   line-height: 38px;
   font-weight: 600;
   letter-spacing: 1px;
   font-size: 1rem;
+  color: rgba(129, 165, 117, 0.623);
 }
 
 .navbar-item.is-active{
